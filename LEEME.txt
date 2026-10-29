@@ -1,0 +1,21 @@
+PAGINA ESTATICA PARA PUBLICAR GRATIS
+
+Archivos:
+- index.html: estructura y textos de la página.
+- styles.css: diseño adaptable a móvil y escritorio.
+- script.js: menú móvil.
+
+Para probarla, abre index.html en un navegador. Las fotografías y las fuentes se cargan desde servicios externos, por lo que necesitan conexión a internet.
+
+Antes de publicarla:
+1. Confirma que el teléfono, correo, dominio, nombre comercial y afirmaciones sobre certificaciones/permisos son correctos y autorizados.
+2. Cambia en index.html los datos que no correspondan a tu empresa.
+3. Puedes sustituir las URL de imágenes de Unsplash en index.html y styles.css por fotografías propias.
+
+Publicación gratuita con GitHub Pages:
+1. Crea una cuenta en github.com y un repositorio público.
+2. Sube los tres archivos de esta carpeta a la raíz del repositorio.
+3. En Settings > Pages, elige Deploy from a branch y selecciona la rama main y la carpeta /(root).
+4. Para usar tu dominio GoDaddy, configura el dominio personalizado en GitHub Pages y sigue los registros DNS que GitHub indica para tu caso.
+
+El servicio de alojamiento puede ser gratis; el dominio conserva sus cargos de renovación propios.
